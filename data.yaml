@@ -1,0 +1,13 @@
+train: D:\AI COURSE TAMIL\First project\fire.v2i.yolov8\train\images
+val: D:\AI COURSE TAMIL\First project\fire.v2i.yolov8\valid\images
+test: D:\AI COURSE TAMIL\First project\fire.v2i.yolov8\test\images
+
+nc: 1
+names: ['fire']
+
+roboflow:
+  workspace: smoking-rmj9c
+  project: fire-cjwua
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.rob
